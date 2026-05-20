@@ -1,8 +1,12 @@
-# Trusted Sources
+# 🔍 Trusted Sources for Global Pulse
 
-- OSINT accounts on X
-- Reliable news outlets
+## OSINT & News
+- X/Twitter accounts (https://x.com/clashreport, https://x.com/AP, https://x.com/Reuters, https://x.com/RapidResponse47, https://x.com/IndiaToday,https://x.com/Osint613, https://x.com/warintel4u, https://x.com/disclosetv, https://x.com/cspan)
 - Public intelligence platforms
-- Reddit threads
+- Reddit threads (r/geopolitics, r/OSINT, etc.)
 
-(Add links and notes here)
+## Market Sources
+- Official exchange websites
+- Trusted financial news
+
+**Note:** Always verify before adding to Daily Brief.
