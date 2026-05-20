@@ -1,39 +1,41 @@
-# Global Pulse
+# 🌍 Global Pulse
 
 **Real-time Global Intelligence Dashboard**
 
-A comprehensive hub for:
-- Geopolitics & Ongoing Conflicts (strong focus on Middle East)
-- Wars, Terrorism & Security Threats
-- Global News & OSINT Updates
-- Professional Market Intelligence
+Comprehensive hub for **Geopolitics • Conflicts • Terrorism • Markets • Shipping**
 
 ---
 
 ## 🎯 Mission
-
-Deliver clean, concise, real-time insights on how the world is working — from active battlefields and geopolitical shifts to national & global markets. Designed as if guided by a broker-journalist with 50+ years of experience.
-
----
-
-## 📌 Core Coverage
-
-- **Active Conflicts & Wars** – Live tracking of ongoing wars, especially Middle East
-- **Geopolitics** – Diplomacy, sanctions, major power movements
-- **Terrorism & Security** – Verified incidents from OSINT sources
-- **Global Markets** – Indices, commodities, currencies, sectors with professional trading insights
-- **Shipping & Trade** – Critical routes, disruptions, economic impact
-- **Sources** – OSINT platforms, credible X/Twitter accounts, Reddit, public intelligence channels
+Provide clear, concise, real-time insights on global events and markets — with special focus on the **Middle East** and ongoing conflicts. Delivered with the experience of a seasoned broker-journalist with 50+ years in trading and international reporting.
 
 ---
 
-## 🚀 How to Use
+## 📌 Quick Navigation
 
-- Check **Daily Brief** for the latest summary
-- Browse topic folders for deeper dives
-- All paid content clearly marked
-- Free & open for everyone
+| Section              | Link                          | Focus |
+|----------------------|-------------------------------|-------|
+| 📅 **Daily Brief**   | [→ Open](./Daily-Brief)      | Latest summary |
+| ⚔️ **Conflicts**     | [→ Open](./Conflicts)        | Wars & military movements |
+| 🌐 **Geopolitics**   | [→ Open](./Geopolitics)      | Diplomacy, sanctions, power shifts |
+| 📈 **Markets**       | [→ Open](./Markets)          | Professional market analysis |
+| 🚢 **Shipping & Trade** | [→ Open](./Shipping-Trade) | Critical routes & disruptions |
+| 🔍 **Sources**       | [→ Open](./Sources)          | Trusted OSINT & accounts |
 
 ---
 
-## 📁 Recommended Folder Structure
+## Core Topics Covered
+- Ongoing wars and active conflicts (strong Middle East focus)
+- Terrorism and security threats
+- Geopolitical movements and international relations
+- Global & national markets (indices, commodities, currencies, sectors)
+- Shipping chokepoints and trade impacts
+- OSINT from X, Reddit, public platforms
+
+**Paid content will always be clearly marked.**
+
+---
+
+**Last Updated**: `May 21, 2026`
+
+Made openly for students, analysts, journalists, and citizens worldwide.
