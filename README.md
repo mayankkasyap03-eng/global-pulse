@@ -8,10 +8,6 @@
 
 Comprehensive hub for **Geopolitics • Conflicts • Terrorism • Markets • Shipping**
 
-**Real-time Global Intelligence Dashboard**
-
-Comprehensive hub for **Geopolitics • Conflicts • Terrorism • Markets • Shipping**
-
 ---
 
 ## 🎯 Mission
