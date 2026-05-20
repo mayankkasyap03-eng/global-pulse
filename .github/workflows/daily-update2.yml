@@ -1,0 +1,27 @@
+name: Daily Global Pulse Update
+
+on:
+  schedule:
+    - cron: '0 8 * * *'     # Runs every day at 8:00 AM UTC (adjust if needed)
+  workflow_dispatch:        # Allows you to run it manually
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Last Updated date
+        run: |
+          TODAY=$(date "+%B %d, %Y")
+          sed -i "s/Last Updated: .*/Last Updated: $TODAY/" README.md
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: daily automated date update"
+          git push
