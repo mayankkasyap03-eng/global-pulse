@@ -1,0 +1,55 @@
+# 🔍 Trusted OSINT Tools & Sources for Global Pulse
+
+**Last Updated**: May 21, 2026
+
+Curated list of free/public tools and accounts for monitoring geopolitics, conflicts (especially Middle East), terrorism, shipping, and markets.
+
+---
+
+## 🗺️ Conflict & Geopolitics Monitoring
+
+- **[Liveuamap](https://liveuamap.com)** — Real-time conflict maps and news aggregation
+- **[DeepStateMap](https://deepstatemap.live)** — Excellent for ongoing wars and military movements
+- **[World Monitor](https://worldmonitor.app)** — Interactive global dashboard with conflict layers, flights, and AI briefs
+- **[SignalCockpit](https://signalcockpit.com)** — Strong for Middle East/Iran monitoring
+- **[USvsIRAN.com](https://usvsiran.com)** — Focused OSINT dashboard for US-Iran related developments
+- **[MarineTraffic](https://www.marinetraffic.com)** — Live ship tracking (critical for Red Sea, Hormuz, etc.)
+- **[Flightradar24](https://www.flightradar24.com)** — Real-time aircraft tracking
+
+## 📡 News & Social Media Monitoring
+
+- **Google Alerts** — Set custom alerts for keywords
+- **Google Trends** — Track rising topics and search interest
+- **[Social Searcher](https://www.social-searcher.com)** — Search across multiple social platforms
+- **X/Twitter Advanced Search** — Powerful for real-time OSINT
+
+### Recommended X/Twitter Accounts (Follow & Monitor)
+- @sentdefender (OSINTdefender) — Strong on Middle East conflicts
+- @Osinttechnical — Technical OSINT updates
+- @AuroraIntel — Middle East-focused with verification
+- @WarMonitors — Breaking conflict news
+- @Osint613 — Global & Middle East real-time monitoring
+
+## 📈 Markets & Economic Intelligence
+
+- Official exchange sites (Yahoo Finance, TradingView, Bloomberg free sections)
+- UN Comtrade — Global trade data
+- MarineTraffic + shipping indices for trade disruptions
+- Google Alerts for commodity keywords (Oil, Gold, etc.)
+
+## 🛠️ General OSINT Frameworks & Toolkits
+
+- **[OSINT Framework](https://osintframework.com)** — Massive directory of tools
+- Maltego (Community edition available)
+- Shodan — Search for internet-connected devices
+- theHarvester, Recon-ng, SpiderFoot (for advanced users)
+
+## ⚠️ Important Guidelines
+- Always **cross-verify** information from multiple sources
+- Clearly mark unverified claims or paid content
+- Add date + source link for every update in Daily Brief
+- Stay neutral and factual
+
+---
+
+**Contribution Tip**: Add new reliable tools/accounts with a short description and why they're useful.
