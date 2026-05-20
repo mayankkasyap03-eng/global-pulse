@@ -1,5 +1,13 @@
 # 🌍 Global Pulse
 
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%2021%2C%202026-blue)](https://github.com/mayankkasyap03-eng/global-pulse)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](./Contributing.md)
+
+**Real-time Global Intelligence Dashboard**
+
+Comprehensive hub for **Geopolitics • Conflicts • Terrorism • Markets • Shipping**
+
 **Real-time Global Intelligence Dashboard**
 
 Comprehensive hub for **Geopolitics • Conflicts • Terrorism • Markets • Shipping**
