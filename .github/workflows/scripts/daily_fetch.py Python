@@ -1,0 +1,27 @@
+import requests
+import datetime
+
+def fetch_news():
+    # Example with free NewsAPI (get your free key)
+    url = "https://newsapi.org/v2/top-headlines?category=general&apiKey=YOUR_KEY"
+    response = requests.get(url)
+    articles = response.json().get("articles", [])
+    return "\n".join([f"- {a['title']} ({a['source']['name']})" for a in articles[:5]])
+
+today = datetime.date.today().strftime("%Y-%m-%d")
+
+content = f"""# 🌍 Global Pulse - Daily Brief
+**Date:** {datetime.date.today().strftime("%B %d, %Y")}
+
+## ⚔️ Quick Snapshot
+[Add manual notes here or auto-pull]
+
+## 📈 Markets
+Oil, Gold, Major Indices — Auto-updated placeholder.
+
+## Sources
+- Fetched via GitHub Actions
+"""
+
+with open(f"Daily-Brief/{today}.md", "w") as f:
+    f.write(content)
